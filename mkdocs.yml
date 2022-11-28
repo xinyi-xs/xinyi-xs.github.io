@@ -51,6 +51,10 @@ extra:
 nav:
   - 技术:
     - tech/index.md
+    - QUIC with cubic or bbr: tech/quic_with_cubic_bbr.md
+
+
+
   - 随笔: 
     - note/index.md
     - 打油诗: note/poem.md
